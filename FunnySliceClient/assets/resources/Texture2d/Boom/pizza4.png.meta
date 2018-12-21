@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4313de6b-3028-49df-bb23-536e50f766f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pizza4": {
+      "ver": "1.0.3",
+      "uuid": "7250775a-e623-4790-8bfb-60f11cfc0e92",
+      "rawTextureUuid": "4313de6b-3028-49df-bb23-536e50f766f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 30,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
